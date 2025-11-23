@@ -40,9 +40,10 @@ This approach provides a clean aesthetic with uniform switches throughout your h
 
 ### Installation Note: Replacing Niko with Gira/MDT
 
-*   **Wall Box Compatibility:** The existing side-by-side wall boxes (as seen in the image below) are installed with the standard 71mm center-to-center spacing, which is the universal European standard (DIN 49073).
-    <img src="images/double-poweroutlet.jpeg" alt="Existing Double Power Outlet" width="300"/>
-*   **Niko "Hooks":** The specific "dovetail" hooks on your current Niko inserts are brand-specific for interlocking Niko mounting frames. These are *not* required or used by Gira inserts or MDT frames.
+    *   **Wall Box Compatibility:** The existing side-by-side wall boxes (as seen in the image below) are installed with the standard 71mm center-to-center spacing, which is the universal European standard (DIN 49073).
+        | |
+        | :---: |
+        | <img src="images/double-poweroutlet.jpeg" alt="Existing Double Power Outlet" width="300"/> |*   **Niko "Hooks":** The specific "dovetail" hooks on your current Niko inserts are brand-specific for interlocking Niko mounting frames. These are *not* required or used by Gira inserts or MDT frames.
 *   **Gira/MDT Integration:**
     *   The **Gira inserts** (power, data, mechanical push button) come with their own standard metal mounting frames which screw directly into the existing wall box screw points.
     *   The **MDT 2-gang (or multi-gang) frame** is rigid and is designed to hold the Gira inserts in perfect alignment over the standard 71mm spacing.
@@ -57,19 +58,23 @@ This approach provides a clean aesthetic with uniform switches throughout your h
 *   **Identification:** A green, shielded twisted-pair cable is a strong indicator of KNX. Look for markings on the cable sheath (e.g., "KNX", "EIB", or "J-Y(St)Y") for definitive confirmation.
 *   **VERIFICATION (Your Apartment):**
     *   **Visual Evidence of Cabling:** Locations identified as having bus cable:
-        <img src="images/cable1.jpeg" alt="Cable Location 1" width="200"/>
-        <img src="images/cable2.jpeg" alt="Cable Location 2" width="200"/>
-        <img src="images/cable3.jpeg" alt="Cable Location 3" width="200"/>
-        <img src="images/cable4.jpeg" alt="Cable Location 4" width="200"/>
+        | | |
+        | :---: | :---: |
+        | <img src="images/cable1.jpeg" alt="Cable Location 1" width="200"/> | <img src="images/cable2.jpeg" alt="Cable Location 2" width="200"/> |
+        | <img src="images/cable3.jpeg" alt="Cable Location 3" width="200"/> | <img src="images/cable4.jpeg" alt="Cable Location 4" width="200"/> |
     *   **Confirmed Marking:** Photographic evidence clearly shows the cable sheath marked **`J-Y(St)Y`**.
-        <img src="images/cable5.jpeg" alt="Cable Marking J-Y(St)Y" width="300"/>
+        | |
+        | :---: |
+        | <img src="images/cable5.jpeg" alt="Cable Marking J-Y(St)Y" width="300"/> |
     *   **Good News:** This is the standard specification for KNX bus cable. Even though it was used for Nikobus, **it is fully compatible with your new KNX system.**
     *   **Action:** You can reuse the existing cabling without modification. Simply replace the Nikobus components with your new KNX devices.
 
 ### Installation Note: Cabinet Space Confirmed
 
 *   **Available Width:** Analysis of the electrical cabinet image (as seen below) confirms an available DIN rail width of approximately **32.5 cm (325 mm)** on at least one row in your distribution board.
-    <img src="images/electrical-cabinet-size.jpeg" alt="Electrical Cabinet Size Measurement" width="400"/>
+        | |
+        | :---: |
+        | <img src="images/electrical-cabinet-size.jpeg" alt="Electrical Cabinet Size Measurement" width="400"/> |
 *   **KNX Equipment Width:** Your selected KNX central components (Zennio ALLinBOX: 12 TE + MDT AKD-0401.02: 6 TE) require a total of **18 TE**.
 *   **Conversion:** 18 TE equates to 18 * 17.5 mm = **315 mm**.
 *   **Conclusion:** The available space of 325 mm is sufficient for the 315 mm (18 TE) required, leaving a small buffer for ease of installation.
