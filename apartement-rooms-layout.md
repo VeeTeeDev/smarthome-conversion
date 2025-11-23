@@ -297,17 +297,17 @@ This approach provides a clean aesthetic with uniform switches throughout your h
 ## Bill of Materials (BOM)
 
 ### Central System (DIN-Rail)
-| Component | Model / Description | Quantity |
-| :--- | :--- | :--- |
-| **Multifunction Actuator** | Zennio ALLinBOX 1612 v3 (ZPR1612V3) | 1 |
-| **Dimming Actuator** | MDT AKD-0401.02 (4-channel) | 1 |
+| Component | Model / Description | Quantity | Unit Price |
+| :--- | :--- | :--- | :--- |
+| **Multifunction Actuator** | Zennio ALLinBOX 1612 v3 (ZPR1612V3) | 1 | €624.63 |
+| **Dimming Actuator** | MDT AKD-0401.02 (4-channel) | 1 | €283.09 |
 
 ### MDT Control Points (Black Matt)
-| Type | Insert Part # | Rocker Part # | Quantity |
-| :--- | :--- | :--- | :--- |
-| **2-button Switch** | `BE-TAL55T206.01` | `BE-TAL55W206.01` | **6** |
-| **4-button Switch** | `BE-TAL55T406.01` | `BE-TAL55W406.01` | **9** |
-| **8-button Switch** | `BE-TA55T806.02` | *(Integrated)* | **1** |
+| Type | Insert Part # | Rocker Part # | Quantity | Unit Price (Est.) |
+| :--- | :--- | :--- | :--- | :--- |
+| **2-button Switch** | `BE-TAL550206.01` | `BE-TAL55W206.01` | **6** | Insert: €60.57 / Rocker: €4.32 |
+| **4-button Switch** | `BE-TAL550406.01` | `BE-TAL55W406.01` | **9** | Insert: €60.65 / Rocker: €4.32 |
+| **8-button Switch** | `BE-TA55T806.02` | *(Integrated)* | **1** | €97.35 |
 
 ### MDT Frames (Assortment 55 - Black Matt)
 | Size | Part # (Assumed) | Usage Count | Total Quantity |
@@ -317,9 +317,9 @@ This approach provides a clean aesthetic with uniform switches throughout your h
 | **3-gang Frame** | `BE-TAL55R3.06` | 2 | **2** |
 
 ### Gira Inserts (System 55 - Black Matt)
-| Component | Description | Quantity |
-| :--- | :--- | :--- |
-| **Power Outlet** | Single Socket (Schuko, Type E, Screw Terminals recommended) | **39** |
+| Component | Description | Quantity | Unit Price |
+| :--- | :--- | :--- | :--- |
+| **Power Outlet** | Single Socket (Schuko, Type E, **Gira 4485005**) | **39** | €11.50 |
 | **Mechanical Switch** | Single Rocker Push Button (Momentary Contact) | **1** |
 | **Dual Data** | Dual FTP/RJ45 Connector | **2** |
 | **Single Data** | Single FTP/RJ45 Connector | **2** |
@@ -335,17 +335,27 @@ This approach provides a clean aesthetic with uniform switches throughout your h
 Use these links to view the specific aesthetics of the parts:
 
 #### MDT Components (Black Matt)
-*   **Push Button Lite (4-fold):** [View Images (BE-TAL55T406.01)](https://www.google.com/search?tbm=isch&q=MDT+BE-TAL55T406.01+black)
-*   **Push Button Lite (2-fold):** [View Images (BE-TAL55T206.01)](https://www.google.com/search?tbm=isch&q=MDT+BE-TAL55T206.01+black)
-*   **Push Button Plus (8-fold):** [View Images (BE-TA55T806.02)](https://www.google.com/search?tbm=isch&q=MDT+BE-TA55T806.02+black)
+*   **Push Button Lite (4-fold):** [Product Page (Smartkram)](https://smartkram.de/shop/smart-home/tastsensoren-und-bedienelemente/tastsensoren/mdt-knx-taster-4-fach-light-55-schwarz-matt-neutral-be-tal550406-01/?srsltid=AfmBOopDyvbb1PPW3VwE2SYJn0rSvLs_THBg7Lm8PbHKmpTTPHalC_dk)
+    <img src="images/button-insert-4.png" alt="MDT 4-fold Lite" width="200"/>
+*   **Push Button Lite (2-fold):** [Product Page (Smartkram)](https://smartkram.de/shop/smart-home/tastsensoren-und-bedienelemente/tastsensoren/mdt-knx-taster-2-fach-light-55-schwarz-matt-neutral-be-tal550206-01/)
+    <img src="images/button-insert-2.png" alt="MDT 2-fold Lite" width="200"/>
+*   **Rocker for 4-fold Lite:** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/MDT-BE-TAL55W406.01-MDT-Wippe-fuer-KNX-Taster-Light-55-4-fach,-Schwarz-matt,-Neutral)
+    <img src="images/rocker-4.webp" alt="MDT Rocker 4-fold" width="200"/>
+*   **Rocker for 2-fold Lite:** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/MDT-BE-TAL55W206.01-MDT-Wippe-fuer-KNX-Taster-Light-55-2-fach,-Schwarz-matt,-Neutral)
+    <img src="images/rocker-2.webp" alt="MDT Rocker 2-fold" width="200"/>
+*   **Push Button Plus (8-fold):** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/MDT-BE-TA55T806.02-KNX-Taster-Plus-TS-55-8-fach,-Schwarz-matt)
+    <img src="images/button-insert-8.webp" alt="MDT 8-fold Plus" width="200"/>
 *   **Frames (55mm Black Matt):** [View Images (BE-TAL55R1.06)](https://www.google.com/search?tbm=isch&q=MDT+BE-TAL55R1.06+black+matt)
 
 #### Gira System 55 Inserts (Black Matt)
-*   **Power Outlet (Schuko Type E):** [View Images (Gira System 55 Schuko E black matt)](https://www.google.com/search?tbm=isch&q=Gira+System+55+Schuko+Type+E+pin+earth+black+matt)
+*   **Power Outlet (Schuko Type E):** [Product Page (Klusspullen)](https://www.klusspullen.nl/gira-4485005-553469.html)
+    <img src="images/gira-4485005.webp" alt="Gira 4485005 Power Outlet" width="300"/>
 *   **Mechanical Push Button:** [View Images (Gira System 55 Rocker black matt)](https://www.google.com/search?tbm=isch&q=Gira+System+55+rocker+switch+black+matt)
 *   **Data/Coax Inserts:** [View Images (Gira System 55 Data Socket black matt)](https://www.google.com/search?tbm=isch&q=Gira+System+55+UAE+data+socket+black+matt)
 
 #### Central Components
-*   **Zennio ALLinBOX 1612 v3:** [View Images](https://www.google.com/search?tbm=isch&q=Zennio+ZPR1612V3)
-*   **MDT Dimmer (AKD-0401.02):** [View Images](https://www.google.com/search?tbm=isch&q=MDT+AKD-0401.02)
+*   **Zennio ALLinBOX 1612 v3:** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/Zennio-ZPR1612V3-KNX-ALLinBOX-1612-Multifunktionsgeraet-mit-Spannungsversorgung,-KNX-IP-Schnittstelle,-16-OUT,-12-IN,-Logikmodul)
+    <img src="images/zennio-allinbox-1612.webp" alt="Zennio ALLinBOX 1612 v3" width="200"/>
+*   **MDT Dimmer (AKD-0401.02):** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/Dimming-Actuator-4-fold,-6SU-MDRC,-250W,-230VAC,-with-active-power-measurement)
+    <img src="images/dimming-actuator.webp" alt="MDT Dimming Actuator" width="200"/>
 
