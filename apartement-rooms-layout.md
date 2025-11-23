@@ -335,16 +335,11 @@ This approach provides a clean aesthetic with uniform switches throughout your h
 Use these links to view the specific aesthetics of the parts:
 
 #### MDT Components (Black Matt)
-*   **Push Button Lite (4-fold):** [Product Page (Smartkram)](https://smartkram.de/shop/smart-home/tastsensoren-und-bedienelemente/tastsensoren/mdt-knx-taster-4-fach-light-55-schwarz-matt-neutral-be-tal550406-01/?srsltid=AfmBOopDyvbb1PPW3VwE2SYJn0rSvLs_THBg7Lm8PbHKmpTTPHalC_dk)
-    <img src="images/button-insert-4.png" alt="MDT 4-fold Lite" width="200"/>
-*   **Push Button Lite (2-fold):** [Product Page (Smartkram)](https://smartkram.de/shop/smart-home/tastsensoren-und-bedienelemente/tastsensoren/mdt-knx-taster-2-fach-light-55-schwarz-matt-neutral-be-tal550206-01/)
-    <img src="images/button-insert-2.png" alt="MDT 2-fold Lite" width="200"/>
-*   **Rocker for 4-fold Lite:** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/MDT-BE-TAL55W406.01-MDT-Wippe-fuer-KNX-Taster-Light-55-4-fach,-Schwarz-matt,-Neutral)
-    <img src="images/rocker-4.webp" alt="MDT Rocker 4-fold" width="200"/>
-*   **Rocker for 2-fold Lite:** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/MDT-BE-TAL55W206.01-MDT-Wippe-fuer-KNX-Taster-Light-55-2-fach,-Schwarz-matt,-Neutral)
-    <img src="images/rocker-2.webp" alt="MDT Rocker 2-fold" width="200"/>
-*   **Push Button Plus (8-fold):** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/MDT-BE-TA55T806.02-KNX-Taster-Plus-TS-55-8-fach,-Schwarz-matt)
-    <img src="images/button-insert-8.webp" alt="MDT 8-fold Plus" width="200"/>
+
+| 2-fold Lite (Insert + Rocker) | 4-fold Lite (Insert + Rocker) | 8-fold Plus (Integrated) |
+| :---: | :---: | :---: |
+| **[Insert Link](https://smartkram.de/shop/smart-home/tastsensoren-und-bedienelemente/tastsensoren/mdt-knx-taster-2-fach-light-55-schwarz-matt-neutral-be-tal550206-01/)** / **[Rocker Link](https://my-knx-shop.net/MDT-BE-TAL55W206.01-MDT-Wippe-fuer-KNX-Taster-Light-55-2-fach,-Schwarz-matt,-Neutral)**<br><br><img src="images/button-insert-2.png" width="150"/><br><img src="images/rocker-2.webp" width="150"/> | **[Insert Link](https://smartkram.de/shop/smart-home/tastsensoren-und-bedienelemente/tastsensoren/mdt-knx-taster-4-fach-light-55-schwarz-matt-neutral-be-tal550406-01/?srsltid=AfmBOopDyvbb1PPW3VwE2SYJn0rSvLs_THBg7Lm8PbHKmpTTPHalC_dk)** / **[Rocker Link](https://my-knx-shop.net/MDT-BE-TAL55W406.01-MDT-Wippe-fuer-KNX-Taster-Light-55-4-fach,-Schwarz-matt,-Neutral)**<br><br><img src="images/button-insert-4.png" width="150"/><br><img src="images/rocker-4.webp" width="150"/> | **[Product Page](https://my-knx-shop.net/MDT-BE-TA55T806.02-KNX-Taster-Plus-TS-55-8-fach,-Schwarz-matt)**<br><br><img src="images/button-insert-8.webp" width="150"/> |
+
 *   **Frames (55mm Black Matt):** [View Images (BE-TAL55R1.06)](https://www.google.com/search?tbm=isch&q=MDT+BE-TAL55R1.06+black+matt)
 
 #### Gira System 55 Inserts (Black Matt)
@@ -354,8 +349,28 @@ Use these links to view the specific aesthetics of the parts:
 *   **Data/Coax Inserts:** [View Images (Gira System 55 Data Socket black matt)](https://www.google.com/search?tbm=isch&q=Gira+System+55+UAE+data+socket+black+matt)
 
 #### Central Components
-*   **Zennio ALLinBOX 1612 v3:** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/Zennio-ZPR1612V3-KNX-ALLinBOX-1612-Multifunktionsgeraet-mit-Spannungsversorgung,-KNX-IP-Schnittstelle,-16-OUT,-12-IN,-Logikmodul)
-    <img src="images/zennio-allinbox-1612.webp" alt="Zennio ALLinBOX 1612 v3" width="200"/>
-*   **MDT Dimmer (AKD-0401.02):** [Product Page (My-KNX-Shop)](https://my-knx-shop.net/Dimming-Actuator-4-fold,-6SU-MDRC,-250W,-230VAC,-with-active-power-measurement)
-    <img src="images/dimming-actuator.webp" alt="MDT Dimming Actuator" width="200"/>
+
+| Zennio ALLinBOX 1612 v3 | MDT Dimmer (AKD-0401.02) |
+| :---: | :---: |
+| **[Product Page](https://my-knx-shop.net/Zennio-ZPR1612V3-KNX-ALLinBOX-1612-Multifunktionsgeraet-mit-Spannungsversorgung,-KNX-IP-Schnittstelle,-16-OUT,-12-IN,-Logikmodul)**<br><br><img src="images/zennio-allinbox-1612.webp" width="200"/> | **[Product Page](https://my-knx-shop.net/Dimming-Actuator-4-fold,-6SU-MDRC,-250W,-230VAC,-with-active-power-measurement)**<br><br><img src="images/dimming-actuator.webp" width="200"/> |
+
+## Cost Estimation (Partial)
+
+*Note: All prices below are estimates based on online retailers and **include VAT (MwSt./BTW)**. Shipping and installation labor are not included.*
+
+### Breakdown
+*   **Central System:** €907.72
+    *   Zennio ALLinBOX: €624.63
+    *   MDT Dimmer: €283.09
+*   **MDT Control Points:** €1,071.42
+    *   6x 2-button Complete (Insert+Rocker): ~€389.34
+    *   9x 4-button Complete (Insert+Rocker): ~€584.73
+    *   1x 8-button Switch: €97.35
+*   **Gira Power Outlets:** €448.50
+    *   39x Single Socket: €448.50
+*   **Unpriced Items:**
+    *   MDT Frames (23x 1-gang, 16x 2-gang, 2x 3-gang)
+    *   Gira Data, Media, and Mechanical Switch inserts
+
+### **Current Total: €2,427.64** (excluding unpriced items)
 
