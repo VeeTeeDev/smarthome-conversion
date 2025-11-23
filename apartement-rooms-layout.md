@@ -40,7 +40,8 @@ This approach provides a clean aesthetic with uniform switches throughout your h
 
 ### Installation Note: Replacing Niko with Gira/MDT
 
-*   **Wall Box Compatibility:** The existing side-by-side wall boxes (as seen in `images/double-poweroutlet.jpeg`) are installed with the standard 71mm center-to-center spacing, which is the universal European standard (DIN 49073).
+*   **Wall Box Compatibility:** The existing side-by-side wall boxes (as seen in the image below) are installed with the standard 71mm center-to-center spacing, which is the universal European standard (DIN 49073).
+    ![Existing Double Power Outlet](images/double-poweroutlet.jpeg)
 *   **Niko "Hooks":** The specific "dovetail" hooks on your current Niko inserts are brand-specific for interlocking Niko mounting frames. These are *not* required or used by Gira inserts or MDT frames.
 *   **Gira/MDT Integration:**
     *   The **Gira inserts** (power, data, mechanical push button) come with their own standard metal mounting frames which screw directly into the existing wall box screw points.
@@ -55,20 +56,24 @@ This approach provides a clean aesthetic with uniform switches throughout your h
     *   **Yellow/White:** An auxiliary pair, often unused for bus communication.
 *   **Identification:** A green, shielded twisted-pair cable is a strong indicator of KNX. Look for markings on the cable sheath (e.g., "KNX", "EIB", or "J-Y(St)Y") for definitive confirmation.
 *   **VERIFICATION (Your Apartment):**
-    *   **Visual Evidence:** Images (`images/cable1.jpeg`, `images/cable2.jpeg`, `images/cable3.jpeg`, `images/cable4.jpeg`) show green, twisted-pair cables at various locations.
-    *   **Confirmed Marking:** Photographic evidence (`images/cable5.jpeg`) clearly shows the cable sheath marked **`J-Y(St)Y`**.
+    *   **Visual Evidence of Cabling:** Locations identified as having bus cable:
+        ![Cable Location 1](images/cable1.jpeg)
+        ![Cable Location 2](images/cable2.jpeg)
+        ![Cable Location 3](images/cable3.jpeg)
+        ![Cable Location 4](images/cable4.jpeg)
+    *   **Confirmed Marking:** Photographic evidence clearly shows the cable sheath marked **`J-Y(St)Y`**.
+        ![Cable Marking J-Y(St)Y](images/cable5.jpeg)
     *   **Good News:** This is the standard specification for KNX bus cable. Even though it was used for Nikobus, **it is fully compatible with your new KNX system.**
     *   **Action:** You can reuse the existing cabling without modification. Simply replace the Nikobus components with your new KNX devices.
 
 ### Installation Note: Cabinet Space Confirmed
 
-*   **Available Width:** Analysis of the electrical cabinet image (`images/electrical-cabinet-size.jpeg`) confirms an available DIN rail width of approximately **32.5 cm (325 mm)** on at least one row in your distribution board.
+*   **Available Width:** Analysis of the electrical cabinet image (as seen below) confirms an available DIN rail width of approximately **32.5 cm (325 mm)** on at least one row in your distribution board.
+    ![Electrical Cabinet Size Measurement](images/electrical-cabinet-size.jpeg)
 *   **KNX Equipment Width:** Your selected KNX central components (Zennio ALLinBOX: 12 TE + MDT AKD-0401.02: 6 TE) require a total of **18 TE**.
 *   **Conversion:** 18 TE equates to 18 * 17.5 mm = **315 mm**.
 *   **Conclusion:** The available space of 325 mm is sufficient for the 315 mm (18 TE) required, leaving a small buffer for ease of installation.
 *   **Action:** The existing Nikobus modules on this rail will need to be removed to free up the 18 TE for the new KNX components.
-
-### Cabinet Requirements (Physical Space)
 
 ### Cabinet Requirements (Physical Space)
 
